@@ -9,4 +9,6 @@ build/
 coverage/
 __pycache__/
 *.py[cod]
+release-console-state.json
+.release-console/
 .DS_Store
