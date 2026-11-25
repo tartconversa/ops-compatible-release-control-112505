@@ -13,6 +13,7 @@
 {"at_ms":47,"kind":"finished","item":"job-7","region":"coast","cap":"v2","seq":1,"value":null}
 {"at_ms":49,"kind":"claim_ended","item":"job-8","region":"coast","cap":"v2","seq":1,"value":"lease_expired"}
 {"at_ms":53,"kind":"instance","item":"c-new","region":"coast","cap":null,"seq":1,"value":"r12"}
+{"at_ms":55,"kind":"claim","item":"job-8","region":"coast","cap":"v2","seq":2,"value":"compact:r12"}
 {"at_ms":59,"kind":"finished","item":"job-8","region":"coast","cap":"v2","seq":2,"value":null}
 {"at_ms":60,"kind":"propose","item":"rel-3","region":"coast","cap":"v1","seq":4,"value":10}
 {"at_ms":62,"kind":"route_applied","item":"c-route","region":"coast","cap":"v1","seq":4,"value":10}
