@@ -1,0 +1,3 @@
+{"region":"coast","client_cap":"v1","window_ms":18,"min_each":30,"max_excess_pp":2,"dependency":"lex"}
+{"region":"coast","client_cap":"v2","window_ms":18,"min_each":40,"max_excess_pp":2,"dependency":"lex"}
+{"region":"inland","client_cap":"v2","window_ms":25,"min_each":50,"max_excess_pp":1,"dependency":"blob"}

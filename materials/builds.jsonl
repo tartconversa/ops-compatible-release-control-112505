@@ -1,0 +1,4 @@
+{"region":"coast","build":"r11","input_formats":["plain"],"emit_by_cap":{"v1":"plain","v2":"plain"},"ready_slots":4}
+{"region":"coast","build":"r12","input_formats":["plain","compact"],"emit_by_cap":{"v1":"plain","v2":"compact"},"ready_slots":2}
+{"region":"inland","build":"r11","input_formats":["plain"],"emit_by_cap":{"v1":"plain","v2":"plain"},"ready_slots":3}
+{"region":"inland","build":"r12","input_formats":["plain","compact"],"emit_by_cap":{"v1":"plain","v2":"compact"},"ready_slots":2}
